@@ -30,4 +30,4 @@ LI based tool to track location and more info of mobile numbers
 
 - [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:zerohacking481@gmail.com)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/Amirhbrad84)
+
